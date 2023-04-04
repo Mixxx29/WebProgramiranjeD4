@@ -1,0 +1,23 @@
+
+h1 {
+    text-align: center;
+    margin: 5vh auto auto;
+}
+
+#orders {
+    width: 40vw;
+    margin: 5vh auto auto;
+}
+
+.button {
+    text-align: right;
+    margin-bottom: -5vh;
+}
+
+.wrapper {
+    margin: 5vh auto auto;
+}
+
+.right {
+    text-align: right;
+}

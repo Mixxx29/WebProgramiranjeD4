@@ -1,0 +1,19 @@
+
+h1 {
+    text-align: center;
+    margin-top: 5vh;
+}
+
+form {
+    width: 40vw;
+    margin: 5vh auto auto;
+}
+
+form button {
+    margin: 2vh auto auto;
+    float: right;
+}
+
+label {
+    margin: 2vh auto auto;
+}
